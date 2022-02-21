@@ -1,1 +1,1 @@
-My first readme
+ALX class is cool!
