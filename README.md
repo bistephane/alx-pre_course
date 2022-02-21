@@ -1,1 +1,1 @@
-ALX class is cool!
+ALX class is fun!
